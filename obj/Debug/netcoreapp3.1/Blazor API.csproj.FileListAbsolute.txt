@@ -1,0 +1,77 @@
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Blazor API.exe
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Blazor API.deps.json
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Blazor API.runtimeconfig.json
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Blazor API.runtimeconfig.dev.json
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Blazor API.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Blazor API.pdb
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Blazor API.Views.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Blazor API.Views.pdb
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.csproj.AssemblyReference.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.AssemblyInfoInputs.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.AssemblyInfo.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.csproj.CoreCompileInputs.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.RazorComponent.input.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.RazorComponent.output.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor API.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.TagHelpers.input.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.TagHelpers.output.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.RazorCoreGenerate.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.RazorAssemblyInfo.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.RazorAssemblyInfo.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\staticwebassets\Blazor API.StaticWebAssets.Manifest.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\staticwebassets\Blazor API.StaticWebAssets.xml
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Blazor API.styles.css
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.RazorTargetAssemblyInfo.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.RazorTargetAssemblyInfo.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.Views.pdb
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.csproj.CopyComplete
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.dll
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.pdb
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Blazor API.genruntimeconfig.cache
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SwaggerDoc.razor.g.cs
+C:\Users\ZainN.TRITONEXPRESS\source\repos\Blazor API\obj\Debug\netcoreapp3.1\Razor\Pages\SwaggerDoc.razor.g.cs
