@@ -30,7 +30,9 @@ namespace Blazor_API.Data
         [SwaggerOperation(Summary = "GetBookingDetailsByID - Returns bookings per ID", Description = "Returns true if successful ")]
         public async Task<List<Employee>> GetAllEmployeesAsync()
         {
-            return await _appDBContext.Employee.ToListAsync();
+            //return await _appDBContext.Employee.ToListAsync();
+            var studentList = await _appDBContext.Employee.FromSqlRaw("SELECT * FROM Employee WHERE Id = 1").ToListAsync<Employee>();
+            return studentList;
         }
         #endregion
 
