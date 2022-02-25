@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Data.SqlClient;
 
 namespace Blazor_API.Data
 {
@@ -28,10 +29,15 @@ namespace Blazor_API.Data
         [Route("GetAllEmployeesAsync")]
         [HttpGet]
         [SwaggerOperation(Summary = "GetBookingDetailsByID - Returns bookings per ID", Description = "Returns true if successful ")]
-        public async Task<List<Employee>> GetAllEmployeesAsync()
+        public async Task<List<EmployeeDepartment>> GetAllEmployeesAsync()
         {
+            string query = @"SELECT 
+                                Id, DName, EmployeName, City
+                             FROM TritonFleetManagement.dbo.Employee E 
+                             INNER JOIN TritonFleetManagement.dbo.Department D ON D.EmployeeID = E.Id";
+
             //return await _appDBContext.Employee.ToListAsync();
-            var studentList = await _appDBContext.Employee.FromSqlRaw("SELECT * FROM Employee WHERE Id = 1").ToListAsync<Employee>();
+            var studentList = await _appDBContext.EmployeeDepartment.FromSqlRaw(query).ToListAsync<EmployeeDepartment>();
             return studentList;
         }
         #endregion

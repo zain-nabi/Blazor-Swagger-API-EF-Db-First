@@ -14,5 +14,6 @@ namespace Blazor_API.Data
 
         }
         public DbSet<Employee> Employee { get; set; }
+        public DbSet<EmployeeDepartment> EmployeeDepartment { get; set; }
     }
 }
