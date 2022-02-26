@@ -3,6 +3,11 @@
   <PropertyGroup>
     <RazorPage_SelectedScaffolderID>RazorPageScaffolder</RazorPage_SelectedScaffolderID>
     <RazorPage_SelectedScaffolderCategoryPath>root/Common/RazorPage</RazorPage_SelectedScaffolderCategoryPath>
-    <ShowAllFiles>true</ShowAllFiles>
+    <ShowAllFiles>false</ShowAllFiles>
+    <NameOfLastUsedPublishProfile>C:\Users\ZainN.TRITONEXPRESS\source\repos\BLaze API\Properties\PublishProfiles\FTPProfile.pubxml</NameOfLastUsedPublishProfile>
+    <ActiveDebugProfile>Blazor API</ActiveDebugProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>

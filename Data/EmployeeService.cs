@@ -28,13 +28,13 @@ namespace Blazor_API.Data
         #region Get List of Employees
         [Route("GetAllEmployeesAsync")]
         [HttpGet]
-        [SwaggerOperation(Summary = "GetBookingDetailsByID - Returns bookings per ID", Description = "Returns true if successful ")]
+        [SwaggerOperation(Summary = "GetAllEmployeesAsync", Description = "Returns true if successful ")]
         public async Task<List<EmployeeDepartment>> GetAllEmployeesAsync()
         {
             string query = @"SELECT 
                                 Id, DName, EmployeName, City
-                             FROM TritonFleetManagement.dbo.Employee E 
-                             INNER JOIN TritonFleetManagement.dbo.Department D ON D.EmployeeID = E.Id";
+                             FROM db_a836e1_blazorapi.dbo.Employee E 
+                             INNER JOIN db_a836e1_blazorapi.dbo.Department D ON D.EmployeeID = E.Id";
 
             //return await _appDBContext.Employee.ToListAsync();
             var studentList = await _appDBContext.EmployeeDepartment.FromSqlRaw(query).ToListAsync<EmployeeDepartment>();
@@ -42,14 +42,17 @@ namespace Blazor_API.Data
         }
         #endregion
 
-        //#region Insert Employee
-        //public async Task<bool> InsertEmployeeAsync(Employee employee)
-        //{
-        //    await _appDBContext.Employees.AddAsync(employee);
-        //    await _appDBContext.SaveChangesAsync();
-        //    return true;
-        //}
-        //#endregion
+        #region Insert Employee
+        [Route("InsertEmployeeAsync")]
+        [HttpPost]
+        [SwaggerOperation(Summary = "Insert", Description = "Returns true if successful ")]
+        public async Task<bool> InsertEmployeeAsync(Employee employee)
+        {
+            await _appDBContext.Employee.AddAsync(employee);
+            await _appDBContext.SaveChangesAsync();
+            return true;
+        }
+        #endregion
 
         //#region Get Employee by Id
         //public async Task<Employee> GetEmployeeAsync(int Id)

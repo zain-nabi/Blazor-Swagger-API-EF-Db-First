@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -52,7 +53,8 @@ namespace Blazor_API
             services.AddScoped<EmployeeService>();
 
             #region Connection String
-            services.AddDbContext<AppDBContext>(item => item.UseSqlServer(Configuration.GetConnectionString("TritonFleetManagement")));
+            var conn = "data Source=SQL5059.site4now.net;Initial Catalog=db_a836e1_blazorapi;User Id=db_a836e1_blazorapi_admin;Password=Djdjegdo786";
+            services.AddDbContext<AppDBContext>(item => item.UseSqlServer(conn));
             #endregion
         }
 
@@ -62,14 +64,20 @@ namespace Blazor_API
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI();
+                //app.UseSwagger();
+                //app.UseSwaggerUI();
             }
             else
             {
                 app.UseExceptionHandler("/Error");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
+                app.UseSwagger();
+                app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Employee API V1");
+                    c.RoutePrefix = string.Empty;
+                });
             }
 
             app.UseHttpsRedirection();
@@ -83,8 +91,12 @@ namespace Blazor_API
                 endpoints.MapBlazorHub();
                 endpoints.MapFallbackToPage("/_Host");
             });
-
-            app.UseSwaggerUI();
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Employee API V1");
+                c.RoutePrefix = string.Empty;
+            });
         }
     }
 }
